@@ -1,0 +1,60 @@
+body {
+	line-height: 25px;
+	font-size: 16px;
+	background: black  url('img/fon-2.jpg') repeat top center;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+}
+
+header {
+	background: : black;
+	/*background-color: black;*/
+	
+}
+
+.logo {
+  position: absolute;
+  top: 50px;
+  left: 120px;
+  margin: 0;
+}
+
+
+.main-menu ul {
+	font-size: 70px;
+	margin: 50px;
+	padding: 0;
+	padding-top: 20px;
+	margin-bottom: 80px;
+	text-align: center;
+	vertical-align: middle;
+	
+	
+	list-style: none;
+
+	/*text-decoration: underline red;*/
+}
+
+.main-menu li {
+  display: inline-block;
+  
+    text-transform: uppercase;
+
+}
+
+.main-menu a {
+	color: white;
+	text-decoration: none;
+}
+
+.main-menu {
+	border: 1px solid grey;
+	background-color: grey;
+	margin-bottom: 50px;
+
+}
+
+.di  {
+margin-left: 7%;
+margin-right: 7%;
+}
